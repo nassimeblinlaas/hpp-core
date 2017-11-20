@@ -17,6 +17,7 @@
 # hpp-core  If not, see
 # <http://www.gnu.org/licenses/>.
 
+
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 
 SET(CXX_DISABLE_WERROR TRUE)
